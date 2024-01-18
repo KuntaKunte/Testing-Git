@@ -2,11 +2,3 @@ Initial file creation
 Track changes
 github testing
 
-
-
-
-
-***ADDING NEW FEATURE***********
-New FEATURE
-tested
-working
