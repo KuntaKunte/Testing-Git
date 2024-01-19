@@ -1,5 +1,5 @@
 Initial file creation
 Track changes
 github testing the 3rd branch
-
-*****New feature****
+Adding change on a blank line
+*****New  Making change on the same line feature****
